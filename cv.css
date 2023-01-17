@@ -1,0 +1,75 @@
+body{
+    background-color: white;
+}
+
+#jacob_bild{
+ position: absolute;
+ left: 50px;
+ top: 50px;
+}
+
+#knapp_ett{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+
+#knapp_två{
+    position: absolute;
+    top: 300px;
+    right: 50px;
+}
+
+#knapp_tre{
+    position: absolute;
+    top: 550px;
+    right: 50px;
+}
+
+#e-post{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+}
+
+#jacob{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+}
+
+#utbildning{
+    position: absolute;
+    top: 185px;
+    right: 375px;
+}
+
+#a_utbildning{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+#a_om_mig{
+    position: absolute;
+    top: 50px;
+    right: 25px;
+}
+
+#a_fritidsintressen{
+    position: absolute;
+    top: 75px;
+    right: 25px;
+}
+
+#Samuel{
+    position: absolute;
+    left: 50px;
+    bottom: 150px;
+}
+
+#Samuelnmr{
+    position: absolute;
+    left: 50px;
+    bottom: 200px;
+}

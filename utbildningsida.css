@@ -1,0 +1,18 @@
+#a_tillbaka{
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+}
+
+#lista{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-size: 30px;
+}
+
+#klarebergsskolan{
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+}
